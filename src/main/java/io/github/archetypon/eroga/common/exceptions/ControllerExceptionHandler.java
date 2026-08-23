@@ -1,4 +1,4 @@
-package io.github.archetypon.eroga.common;
+package io.github.archetypon.eroga.common.exceptions;
 
 import io.github.archetypon.eroga.exercise.exceptions.ExerciseNotFoundException;
 import org.springframework.http.HttpStatus;

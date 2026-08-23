@@ -1,4 +1,4 @@
-package io.github.archetypon.eroga.exercise.controllers;
+package io.github.archetypon.eroga.exercise.api;
 
 import io.github.archetypon.eroga.exercise.entities.BodyWeightedExercise;
 import io.github.archetypon.eroga.exercise.entities.Exercise;

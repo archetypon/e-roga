@@ -1,6 +1,6 @@
-package io.github.archetypon.eroga.exercise.controllers;
+package io.github.archetypon.eroga.exercise.api;
 
-import io.github.archetypon.eroga.common.ControllerExceptionHandler;
+import io.github.archetypon.eroga.common.exceptions.ControllerExceptionHandler;
 import io.github.archetypon.eroga.exercise.exceptions.ExerciseNotFoundException;
 import io.github.archetypon.eroga.exercise.services.ExerciseService;
 import org.junit.jupiter.api.Test;

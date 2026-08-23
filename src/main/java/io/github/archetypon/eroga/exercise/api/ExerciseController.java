@@ -1,4 +1,4 @@
-package io.github.archetypon.eroga.exercise.controllers;
+package io.github.archetypon.eroga.exercise.api;
 
 import io.github.archetypon.eroga.exercise.services.ExerciseService;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package io.github.archetypon.eroga.exercise.exceptions;
+package io.github.archetypon.eroga.common.exceptions;
 
 public class NotUUIDException extends RuntimeException{
     public NotUUIDException() {

@@ -1,10 +1,10 @@
 package io.github.archetypon.eroga.exercise.services;
 
-import io.github.archetypon.eroga.exercise.controllers.ExerciseDTO;
-import io.github.archetypon.eroga.exercise.controllers.ExerciseMapper;
+import io.github.archetypon.eroga.exercise.api.ExerciseDTO;
+import io.github.archetypon.eroga.exercise.api.ExerciseMapper;
 import io.github.archetypon.eroga.exercise.entities.Exercise;
 import io.github.archetypon.eroga.exercise.exceptions.ExerciseNotFoundException;
-import io.github.archetypon.eroga.exercise.exceptions.NotUUIDException;
+import io.github.archetypon.eroga.common.exceptions.NotUUIDException;
 import io.github.archetypon.eroga.exercise.repositories.ExerciseRepository;
 import org.mapstruct.factory.Mappers;
 import org.springframework.beans.factory.annotation.Autowired;
